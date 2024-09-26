@@ -1,4 +1,4 @@
-# ![Confluent Digital](./images/cover.jpeg)
+# ![Confluent Digital](./profile/images/cover.jpeg)
 
 # 🚀 Confluent Digital
 
